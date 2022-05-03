@@ -4,7 +4,7 @@
 
 This is a repository for the data collected in a large HRI study undertaken at the Bristol Robotics Lab, UK. THe study was undertaken to look at distraction of people while they are assisted in a dressing task by a robot. In the study 42 participants were assisted with jacket dressing by a Baxter robot whilst being distracted. We looked for physical cues that might indicate distraction in the task with the intention of these physical traits being useful for detection of distraction in other operational robotic applications.
 
-<img src="xsens.jpg" alt="drawing" width="200"/>
+<img src="xsens.jpg" alt="drawing" width="300"/>
 Participant in the Xsens suit for skeletal tracking standing next to the Baxter robot.
 
 ## The Study
@@ -27,7 +27,7 @@ The dataset is comprised of recordings from 42 participants each with around 40 
 
 Data was captured from several different input sources including video observations, data captured from the ROS message environment including robot pose, video cameras, a gaze tracking device, the participant skeletal tracking suite and force gauges from the robot. Post analysis of the video footage from the gaze tracking glasses was codified with the visual fixation of the participant. 
 
-<img src="setup.jpg" alt="drawing" width="200"/>
+<img src="setup.jpg" alt="drawing" width="300"/>
 Experimental setup showing control PC, ROS environment and camera feed al being recorded.
 
 ## The Equipment
