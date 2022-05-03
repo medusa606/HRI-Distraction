@@ -27,6 +27,9 @@ The dataset is comprised of recordings from 42 participants each with around 40 
 
 Data was captured from several different input sources including video observations, data captured from the ROS message environment including robot pose, video cameras, a gaze tracking device, the participant skeletal tracking suite and force gauges from the robot. Post analysis of the video footage from the gaze tracking glasses was codified with the visual fixation of the participant. 
 
+<img src="setup.jpg" alt="drawing" width="200"/>
+Experimental setup showing control PC, ROS environment and camera feed al being recorded.
+
 ## The Equipment
 
 Baxter robot
