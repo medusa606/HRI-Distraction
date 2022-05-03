@@ -75,8 +75,6 @@ An oddity with the Xsens system is that the system automatically aligns the orie
 
 This can be easily verified by observing the first shape on the cognitive load test and aligning this time point to the first shape in the classified behaviour data. The offset data for this channel is stored in coding_offset.mat.
 
+## Obtaining the Data
 
-
-## Results
-
-
+If you would like access to the data for your own alanysis please contact me and we can arrange an appropriate file sharing platform to transfer the data. There are 2GB of raw data stored in a matlab .mat data structure. There is also a larger .csv file which is around 5GB which may be more suitable depending on your matlab experience.
