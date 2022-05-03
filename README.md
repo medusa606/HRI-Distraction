@@ -1,10 +1,11 @@
 # Human Robot Interaction Study on Distraction
 
-<img src="xsens.jpg" alt="drawing" width="200"/>
-
 ## Overview
 
 This is a repository for the data collected in a large HRI study undertaken at the Bristol Robotics Lab, UK. THe study was undertaken to look at distraction of people while they are assisted in a dressing task by a robot. In the study 42 participants were assisted with jacket dressing by a Baxter robot whilst being distracted. We looked for physical cues that might indicate distraction in the task with the intention of these physical traits being useful for detection of distraction in other operational robotic applications.
+
+<img src="xsens.jpg" alt="drawing" width="200"/>
+Participant in the Xsens suit for skeletal tracking standing next to the Baxter robot.
 
 ## The Study
 
