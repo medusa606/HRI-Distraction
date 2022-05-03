@@ -1,6 +1,6 @@
 # Human Robot Interaction Study on Distraction
 
-![](xsens.jpg)
+<img src="xsens.jpg" alt="drawing" width="200"/>
 
 ## Overview
 
